@@ -1,0 +1,1 @@
+Escreva um programa que leia dois números e apresente a diferença do maior para o menor.
